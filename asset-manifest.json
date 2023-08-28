@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/hw5/signin/static/css/main.06e7d374.css",
-    "main.js": "/hw5/signin/static/js/main.f60bc5ec.js",
-    "index.html": "/hw5/signin/index.html",
-    "main.06e7d374.css.map": "/hw5/signin/static/css/main.06e7d374.css.map",
-    "main.f60bc5ec.js.map": "/hw5/signin/static/js/main.f60bc5ec.js.map"
+    "main.css": "/static/css/main.06e7d374.css",
+    "main.js": "/static/js/main.0bb77e82.js",
+    "index.html": "/index.html",
+    "main.06e7d374.css.map": "/static/css/main.06e7d374.css.map",
+    "main.0bb77e82.js.map": "/static/js/main.0bb77e82.js.map"
   },
   "entrypoints": [
     "static/css/main.06e7d374.css",
-    "static/js/main.f60bc5ec.js"
+    "static/js/main.0bb77e82.js"
   ]
 }
