@@ -87,7 +87,7 @@ const SignUp = () => {
                 </div>
                 <button>Sign up</button>
                 <div className={style.ctaline}>
-                    <Link to='/' >Already have an account? Sign in</Link>
+                    <Link to='/signin' >Already have an account? Sign in</Link>
                 </div>
                     <span className={style.copyright}>Copyright © Your Website 2023.</span>
         </div>
