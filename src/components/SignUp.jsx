@@ -21,7 +21,7 @@ const SignUp = () => {
             regexp = nameRegexp;
             break;
         default:
-            throw new Error('Erororroro')
+            throw new Error('Erororroro ;))) ')
             }
             const isValid = regexp.test(value);
             return isValid
