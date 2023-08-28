@@ -12,3 +12,18 @@ body{
 h2{
   font-size: 18px;
 }
+nav{
+  margin: 10px auto;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  
+}
+nav a{
+  color: azure;
+  background-color: rgba(0, 0, 0, 0.39);
+  border-radius: 5px;
+  margin-left: 10px;
+  text-decoration: none;
+  padding: 10px;
+}
